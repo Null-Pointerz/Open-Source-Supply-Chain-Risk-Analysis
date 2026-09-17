@@ -230,7 +230,7 @@ This repository contains a functional Round 1 proof of concept. It is intended t
 ## Demo
 
 - **Live prototype:** [https://open-source-supply-chain-risk-analysis-null-pointerz.streamlit.app/]
-- **Video demonstration:** <ADD_PUBLIC_VIDEO_LINK>
+- **Video demonstration:** [https://drive.google.com/drive/folders/1aI-YoaJt9_jIj2067o_wsfAv9l6TaJF0?usp=drive_link]
 
 ## Team
 
